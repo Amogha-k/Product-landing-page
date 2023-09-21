@@ -25,8 +25,10 @@ const ProductSlider = () => {
   };
 
   return (
+    
     <div className="product-slider">
       <div className="slider-image" >
+    
         <img loading='lazy' src={images[currentIndex]} alt=""  style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain',alignContent:'center',alignItems:'center' }}/>
       </div>
       <button className="slider-button prev" onClick={prevSlide}>
