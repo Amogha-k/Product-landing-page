@@ -2,7 +2,7 @@ import React from "react";
 import google from "../Assets/google-image.png";
 import Tensor from "../Assets/Tensor.png";
 import Camera from "../Assets/Camera.png";
-import { Style } from "@mui/icons-material";
+
 
 const Work = () => {
   const workInfoData = [

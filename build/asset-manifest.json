@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d7d57b6.css",
+    "main.js": "/static/js/main.cfab119e.js",
+    "static/media/about-background-image.png": "/static/media/about-background-image.1dd42fe311c718ccbace.png",
+    "static/media/home-banner-image.png": "/static/media/home-banner-image.8eebbddb365b55ebedf5.png",
+    "static/media/Tensor.png": "/static/media/Tensor.02b1c21e789a7c7b77fc.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.f2a36e8b2323dd0afc56.png",
+    "static/media/home-banner-background.png": "/static/media/home-banner-background.174dc2229f40d414d8fb.png",
+    "static/media/about-background.png": "/static/media/about-background.40c23654a0024bff9c99.png",
+    "static/media/Logo.svg": "/static/media/Logo.df70c3834d937c053772ad3d2b152532.svg",
+    "index.html": "/index.html",
+    "main.4d7d57b6.css.map": "/static/css/main.4d7d57b6.css.map",
+    "main.cfab119e.js.map": "/static/js/main.cfab119e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7d57b6.css",
+    "static/js/main.cfab119e.js"
+  ]
+}
